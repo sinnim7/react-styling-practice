@@ -1,4 +1,6 @@
-@import "./styles/utils.scss";
+@import "utils.scss";
+@import "~include-media/dist/include-media";
+@import "~open-color/open-color";
 .SassComponent {
   display: flex;
   .box {
